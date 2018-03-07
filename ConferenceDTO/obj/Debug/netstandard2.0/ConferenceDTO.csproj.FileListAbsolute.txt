@@ -1,0 +1,11 @@
+C:\src\DotNetWorkshop\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.deps.json
+C:\src\DotNetWorkshop\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.dll
+C:\src\DotNetWorkshop\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.pdb
+C:\src\DotNetWorkshop\ConferenceDTO\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\src\DotNetWorkshop\ConferenceDTO\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\src\DotNetWorkshop\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csprojResolveAssemblyReference.cache
+C:\src\DotNetWorkshop\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache
+C:\src\DotNetWorkshop\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfoInputs.cache
+C:\src\DotNetWorkshop\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfo.cs
+C:\src\DotNetWorkshop\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.dll
+C:\src\DotNetWorkshop\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.pdb
